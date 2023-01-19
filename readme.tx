@@ -1,7 +1,10 @@
-# Deneme
+# Basliklar -> h1
+## Alt başlık -> h2
+## en alt başlık -> h3 
 
-## Alt bilgi
-asdasdasdasda
-sadasffdfgfhg
+- içerik sıralama 
+* içerik sorılama
 
-[lorem ipsum] (http://google.com)
+*italic* **bold** ***bolditalic***
+
+[Google Gitmek için Tıkla](http://google.com)
